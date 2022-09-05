@@ -1,6 +1,7 @@
 public class Motorista extends Pessoa {
     private int matricula;
     private String habilitacao;
+    private Boolean comCinto;
 
     public int getMatricula() {
         return matricula;
